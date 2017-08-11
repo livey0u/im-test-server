@@ -1,0 +1,31 @@
+{
+  "content": {
+    "subject": "Test",
+    "sender": {
+      "email": "tamilvendhan.k@yahoo.com",
+      "name": "Test"
+    },
+    "receivers": [{
+      "email": "tamilvendhan.k@yahoo.com",
+      "name": "Tamil Vendhan",
+      "variables": {
+
+      }
+    }],
+    "cc": {
+      "email": "tamilvendhank@gmail.com",
+      "name": "Tamil Vendhan"
+    },
+    "bcc": {
+      "email": "tamilvendhan.k@gmail.com",
+      "name": "Tamil Vendhan"
+    },
+    "message": {
+      "html": "<h1>Hi, {{name}}</h1>"
+    },
+    "replyTo": {
+      "email": "tamilvendhan.k@yahoo.com",
+      "name": "Tamil Vendhan"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "example-server-for-email-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tamil Vendhan",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "email-service": "github:livey0u/infinite-mailer",
+    "express": "^4.15.4",
+    "infinite-mailer": "github:livey0u/infinite-mailer"
+  }
+}
